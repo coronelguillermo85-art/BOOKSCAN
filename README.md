@@ -35,6 +35,7 @@ Sin importar en qué idioma esté escrito el libro (inglés, portugués, alemán
 3. Elegí el motor de IA y pegá tu API key (gratis en [aistudio.google.com](https://aistudio.google.com) para Gemini)
 4. Soltá el libro o tocá para elegirlo
 5. Tocá **ESCANEAR LIBRO**
+<img width="837" height="547" alt="image" src="https://github.com/user-attachments/assets/4f582926-aadc-48e8-8cd4-d4faa1bccbc4" />
 
 También podés servirlo con **GitHub Pages** para tener un link público fijo.
 
