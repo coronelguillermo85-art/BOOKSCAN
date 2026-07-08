@@ -51,7 +51,7 @@ HTML + CSS + JavaScript vanilla. Librerías vía CDN: pdf.js, JSZip, Mammoth.js.
 
 ## 📄 Licencia
 
-MIT — usalo, modificalo, lo que quieras.
+
 
 ---
 
